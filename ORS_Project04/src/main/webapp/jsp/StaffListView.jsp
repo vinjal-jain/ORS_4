@@ -15,7 +15,7 @@
 <link rel="icon" type="image/png"
 	href="<%=ORSView.APP_CONTEXT%>/img/logo.png" sizes="16*16" />
 
-<title>Staff List3</title>
+<title>Staff List</title>
 
 <script src="<%=ORSView.APP_CONTEXT%>/js/jquery.min.js"></script>
 <script src="<%=ORSView.APP_CONTEXT%>/js/Checkbox11.js"></script>
@@ -44,7 +44,7 @@
 		<center>
 
 			<div align="center">
-				<h1>Staff List 5</h1>
+				<h1>Staff List </h1>
 				<h3>
 					<font color="red"><%=ServletUtility.getErrorMessage(request)%></font>
 					<font color="limegreen"><%=ServletUtility.getSuccessMessage(request)%></font>
